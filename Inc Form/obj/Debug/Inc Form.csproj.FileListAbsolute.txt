@@ -1,0 +1,15 @@
+C:\Users\bounds\source\repos\Inc Form\Inc Form\bin\Debug\Inc Form.exe.config
+C:\Users\bounds\source\repos\Inc Form\Inc Form\bin\Debug\Inc Form.exe
+C:\Users\bounds\source\repos\Inc Form\Inc Form\bin\Debug\Inc Form.pdb
+C:\Users\bounds\source\repos\Inc Form\Inc Form\obj\Debug\Inc_Form.incForm.resources
+C:\Users\bounds\source\repos\Inc Form\Inc Form\obj\Debug\Inc_Form.Properties.Resources.resources
+C:\Users\bounds\source\repos\Inc Form\Inc Form\obj\Debug\Inc Form.csproj.GenerateResource.cache
+C:\Users\bounds\source\repos\Inc Form\Inc Form\obj\Debug\Inc Form.csproj.CoreCompileInputs.cache
+C:\Users\bounds\source\repos\Inc Form\Inc Form\obj\Debug\Inc Form.exe
+C:\Users\bounds\source\repos\Inc Form\Inc Form\obj\Debug\Inc Form.pdb
+C:\Users\bounds\source\repos\Inc Form\Inc Form\obj\Debug\Inc Form.csprojAssemblyReference.cache
+C:\Users\bounds\source\repos\Inc Form\Inc Form\bin\Debug\Inc Form.exe.manifest
+C:\Users\bounds\source\repos\Inc Form\Inc Form\bin\Debug\Inc Form.application
+C:\Users\bounds\source\repos\Inc Form\Inc Form\obj\Debug\Inc Form.exe.manifest
+C:\Users\bounds\source\repos\Inc Form\Inc Form\obj\Debug\Inc Form.application
+C:\Users\bounds\source\repos\Inc Form\Inc Form\obj\Debug\Inc Form.TrustInfo.xml

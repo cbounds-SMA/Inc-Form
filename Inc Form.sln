@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28705.295
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inc Form", "Inc Form\Inc Form.csproj", "{5326700C-ED13-4277-97F4-AF944445C624}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5326700C-ED13-4277-97F4-AF944445C624}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5326700C-ED13-4277-97F4-AF944445C624}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5326700C-ED13-4277-97F4-AF944445C624}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5326700C-ED13-4277-97F4-AF944445C624}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {07D92225-BACB-475F-8BAD-4A5E7126667B}
+	EndGlobalSection
+EndGlobal
