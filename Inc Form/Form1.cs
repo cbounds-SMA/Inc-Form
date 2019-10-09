@@ -153,35 +153,16 @@ namespace Inc_Form
 
         private void clearInputs()
         {
-            foreach (Control c in this.Controls)
-            {
-                if (c is Label || c is Button)
-                {
-
-                }
-                else
-                {
-                    switch (c)
-                    {
-                        case CheckBox cb:
-                            cb.Checked = false;
-                            break;
-                        case ComboBox cb:
-                            if (cb != category || cb != resolvedCategory)
-                            {
-                                cb.Items.Clear();
-                                cb.Text = "";
-                            }
-                            break;
-                        default:
-                            if (c != resolvedByInput)
-                            {
-                                c.Text = "";
-                            }
-                            break;
-                    }
-                }
-            }
+            subcategory1.Items.Clear();
+            subcategory1.Text = "";
+            subcategory2.Items.Clear();
+            subcategory2.Text = "";
+            username.Clear();
+            resolved.Checked = false;
+            incidentTitle.Clear();
+            computerName.Clear();
+            description.Clear();
+            resolutionText.Clear();
         }
 
         private void checkForFolder(string path)
